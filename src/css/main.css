@@ -92,8 +92,11 @@ textarea {
 	margin-right: auto;
 	background-color: #FCFAE1;
 }
-#footers{
-	background-color: #FCFAE1;
+#part5{
+	background-image:url('../img/mars4.jpg');
+	height: 480px;
+	width:960px;
+	color: white;
 }
 #header{
 	background-image:url('../img/mars.jpg');
@@ -127,10 +130,11 @@ textarea {
 	float:right;
 	margin-top:20px;
 }
-#cta1, #cta2, #cta3{
-	width:150px;
-	height:28px;
+#cta1, #cta2, #cta3, #details1, #details2, #details3{
+	width:207.974px;
+	height:39.995px;
 	border-radius:10px;
+
 }
 #banner{
 	float:left;
