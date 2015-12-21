@@ -93,13 +93,13 @@ textarea {
 	background-color: #FCFAE1;
 }
 #part5{
-	background-image:url('../img/mars4.jpg');
-	height: 480px;
+	background-image:url('../img/footerimage.png');
+	height: 320px;
 	width:960px;
 	color: white;
 }
 #header{
-	background-image:url('../img/mars.jpg');
+	background-image:url('../img/mars1layer1resize.png');
 	height: 480px;
 	width: 960px;
 	text-align: center;
