@@ -94,7 +94,7 @@ textarea {
 }
 #part5{
 	background-image:url('../img/footerimage.png');
-	height: 320px;
+	height: 366.7px;
 	width:960px;
 	color: white;
 }
@@ -128,9 +128,9 @@ textarea {
 }
 #cta1{
 	float:right;
-	margin-top:20px;
+	margin-top:15px;
 }
-#cta1, #cta2, #cta3, #details1, #details2, #details3{
+#cta1, #cta2, #cta3, #cta4, #details1, #details2, #details3{
 	width:207.974px;
 	height:39.995px;
 	border-radius:10px;
@@ -141,7 +141,79 @@ textarea {
 	margin-top:auto;
 	margin-bottom:auto;
 }
-
+.image1{
+	width:60px;
+	height:60px;
+	border-radius:40px;
+}
+#heading1{
+	position:relative;
+	top:70px;
+}
+#content1{
+	font-family:"Times New Roman", Times, serif;
+	font-size:22px;
+	position:relative;
+	top:90px;	
+}
+#cta2{
+	position:relative;
+	top:120px;
+}
+#heading2{
+	position:relative;
+	top:40px;
+}
+#content2{
+	position:relative;
+	top:60px;
+	font-size:20px;
+}
+#cta3{
+	position:relative;
+	top:80px;
+}
+#heading3{
+	position:relative;
+	top:100px;
+}
+#silver, #gold, #platinum{
+	position:relative;
+	top:100px;
+}
+#silverprice, #details1{
+	position:relative;
+	top:40px;
+}
+#goldprice,#details2{
+	position:relative;
+	top:20px;
+}
+#part4
+{
+	position:relative;
+	top:160px;
+}
+#part5
+{
+	position:relative;
+	top:200px;
+}
+#heading5
+{
+	position:relative;
+	top:60px;
+}
+#cta4
+{
+	position:relative;
+	top:80px;
+}
+#footers
+{
+	position:relative;
+	top:100px;
+}
 
 /* ==========================================================================
    Helper classes
